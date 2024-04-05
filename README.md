@@ -22,3 +22,7 @@ I have built a Power BI Report on Tamil Nadu Assembly Election 2021 Results. The
 * The constituency wise winner with the Party was visualized in the table format.
 
 * Thus the Election Results of Tamil Nadu 2021 was visualized in the Power BI using the constituency Map.
+
+  
+### Dashboard
+![Capture](https://github.com/Balaji-Amaranathan/TamilNadu-Election-Results-2021/assets/165944320/d3688371-7aeb-4c70-901a-227243768c62)
