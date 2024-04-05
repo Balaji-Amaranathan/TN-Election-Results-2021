@@ -17,7 +17,7 @@ I have built a Power BI Report on Tamil Nadu Assembly Election 2021 Results. The
 
 * The party flag/ symbol was obtained as a web URL and it was used in the slicers to visualize the data.
 
-* The charts were imported and showcase the seats won and votes% of the party.
+* The charts were imported and showcase the seats won and votes% of the party and bookmark was added.
 
 * The constituency wise winner with the Party was visualized in the table format.
 
